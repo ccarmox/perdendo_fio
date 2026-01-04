@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ccarmox.github.io/perdendo_fio/sitemap.xml

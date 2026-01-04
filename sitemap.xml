@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://ccarmox.github.io/perdendo_fio/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://ccarmox.github.io/perdendo_fio/</loc>
+</url>
+<url>
+<loc>https://ccarmox.github.io/perdendo_fio/contacto.html</loc>
+<lastmod>2025-12-29T18:43:53+01:00</lastmod>
+<image:image>
+<image:loc>https://ccarmox.github.io/perdendo_fio/media/posts/8/yarn-6174027_1920.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://ccarmox.github.io/perdendo_fio/dos.html</loc>
+<lastmod>2025-12-29T18:49:25+01:00</lastmod>
+<image:image>
+<image:loc>https://ccarmox.github.io/perdendo_fio/media/posts/3/sew-8353303_1920.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://ccarmox.github.io/perdendo_fio/post-1.html</loc>
+<lastmod>2026-01-01T11:07:08+01:00</lastmod>
+</url>
+<url>
+<loc>https://ccarmox.github.io/perdendo_fio/post-2.html</loc>
+<lastmod>2026-01-03T15:06:28+01:00</lastmod>
+</url>
+<url>
+<loc>https://ccarmox.github.io/perdendo_fio/redes-sociales.html</loc>
+<lastmod>2026-01-03T23:04:48+01:00</lastmod>
+</url>
+<url>
+<loc>https://ccarmox.github.io/perdendo_fio/uno.html</loc>
+<lastmod>2025-12-29T18:44:20+01:00</lastmod>
+<image:image>
+<image:loc>https://ccarmox.github.io/perdendo_fio/media/posts/2/threads-5073817_1920.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
